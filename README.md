@@ -1,5 +1,5 @@
 # Dansmoncoin
 School Project
 
-## Author
+## Author
 * TEODORESCO Pierre
