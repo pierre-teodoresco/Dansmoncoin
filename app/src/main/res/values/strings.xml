@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dans mon coin</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="under_welcome">Vous êtes ici chez vous !</string>
+    <string name="list_button">Liste</string>
+    <string name="map_button">Carte</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
